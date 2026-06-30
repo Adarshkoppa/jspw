@@ -1,0 +1,1 @@
+This project consists of codes for variable,operator,function and arrays for javascript
