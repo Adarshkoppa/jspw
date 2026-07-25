@@ -83,7 +83,8 @@ Instructions:Create a block of code using curly braces { }.
 Inside the block, declare const framework = "React".
 Inside the block, log framework to the console.
 Outside the block (below the closing brace), 
-try to log framework again.Observe the ReferenceError*/
+try to log framework again.
+Observe the ReferenceError*/
 
 {
    const framework = "React";

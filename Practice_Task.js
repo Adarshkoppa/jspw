@@ -92,3 +92,4 @@ console.log(unique);
 const ard = [1,2,2,3,4,4,5,6,6];
 const uniq = [...new Set(ard)];
 console.log(uniq);
+
